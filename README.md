@@ -34,9 +34,7 @@ The dataset includes transaction-level data with fields such as:
 
 
 *****************Cohort Analysis Heatmap (Retention)**********************
-
-<img src="screenshots/cohort_heatmap.png" width="600"/>
-
+![Screenshot 2025-04-15 105050](https://github.com/user-attachments/assets/72a1c12f-5c71-469a-a04a-6195b72bd92a)
 
 
 ***************Files****************
